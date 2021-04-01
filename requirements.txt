@@ -1,0 +1,3 @@
+vk_api==11.9.1
+pyaimp==0.2.3
+PyYAML==5.4.1
